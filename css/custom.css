@@ -1,0 +1,29 @@
+body {
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16px;
+}
+
+.page-header {
+  margin-top: 0px;
+  color: #fff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957); }
+
+
+.page-title {
+  font-size: 3.25rem;
+  font-weight: bold;
+}
+
+.page-content {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 2rem 4rem;
+  font-size: 1.5rem;
+  color: #606c71;
+}
+
+h3 {
+  color: #159957;
+}
